@@ -1,4 +1,4 @@
-use crate::fwikibot::util::http::Http;
+use crate::ftswikibot::util::http::Http;
 use std::collections::HashMap;
 
 pub struct Page {

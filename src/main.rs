@@ -1,8 +1,8 @@
-mod fwikibot;
+mod ftswikibot;
 
-use crate::fwikibot::entities::wiki::Wiki;
-use crate::fwikibot::util::http::Http;
-use crate::fwikibot::util::secrets::Secrets;
+use crate::ftswikibot::entities::wiki::Wiki;
+use crate::ftswikibot::util::http::Http;
+use crate::ftswikibot::util::secrets::Secrets;
 use std::collections::HashMap;
 use std::env;
 

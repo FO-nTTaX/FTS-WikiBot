@@ -1,6 +1,6 @@
-use crate::fwikibot::entities::page::Page;
-use crate::fwikibot::util::http::Http;
-use crate::fwikibot::util::secrets::Secrets;
+use crate::ftswikibot::entities::page::Page;
+use crate::ftswikibot::util::http::Http;
+use crate::ftswikibot::util::secrets::Secrets;
 use std::collections::HashMap;
 
 pub struct Wiki {
